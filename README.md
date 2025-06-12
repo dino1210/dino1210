@@ -34,12 +34,13 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=dino1210&color=174a40&style=for-the-badge)
+
 <div align="center">
   <img src="https://github.com/dino1210/dino1210/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
 <div align="center">
-
+<img src="https://komarev.com/ghpvc/?username=dino1210&color=174a40&style=for-the-badge">
 </div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
