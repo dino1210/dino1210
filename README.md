@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Nolly Alvarado 
-🌱 I'm an aspiring full-stack developer</br>
+🚀 I'm an aspiring full-stack developer</br>
 🚀 My goal is to become a well-rounded developer capable of contributing to impactful software projects.
 
 ## 🌐 Connect with Me:
@@ -35,8 +35,8 @@
   <img src="https://github.com/dino1210/dino1210/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
+<div align="center">
 
-
-[![](https://visitcount.itsvg.in/api?id=dino1210&icon=3&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=dino1210&color=174a40&style=for-the-badge)
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
