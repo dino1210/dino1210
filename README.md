@@ -1,6 +1,6 @@
-# 💫 About Me:
-👋 Hi, I'm Nolly Alvarado  
-🌱 I’m currently learning full-stack development  
+## 👋 Hi, I'm Nolly Alvarado 
+🌱 I'm an aspiring full-stack developer</br>
+🚀 My goal is to become a well-rounded developer capable of contributing to impactful software projects.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dino0o0.saur) 
@@ -35,14 +35,15 @@
 </div>
 
 ## 📊 GitHub Stats:
-<!-- Profile Stats: full width -->
-![](https://github-readme-stats.vercel.app/api?username=dino1210&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
-
-<!-- Side-by-side stats -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dino1210&theme=gotham&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino1210&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dino1210&theme=gotham&hide_border=false"/>
+
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dino1210&theme=gotham&hide_border=false&include_all_commits=false&count_private=false"  alt="GitHub Streak" style="height: 200px;" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino1210&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="height: 200px;" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dino1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
