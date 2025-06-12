@@ -49,6 +49,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=dino1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+<div align="center">
+  <img src="https://github.com/dino1210/dino1210/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</div>
+
+
 
 [![](https://visitcount.itsvg.in/api?id=dino1210&icon=3&color=0)](https://visitcount.itsvg.in)
 
