@@ -3,10 +3,12 @@
 🚀 My goal is to become a well-rounded developer capable of contributing to impactful software projects.
 
 ## 🌐 Connect with Me:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nolly.alvarado17@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nolly-alvarado) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dino0o0.saur) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lee.lvrd) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nolly-alvarado-a16b15250) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nolly.alvarado17@gmail.com) 
+
+
 
 ## 💻 Tech Stack:
 <div align="center">
@@ -31,12 +33,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=dino1210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+
+![](https://komarev.com/ghpvc/?username=dino1210&color=174a40&style=for-the-badge)
 <div align="center">
   <img src="https://github.com/dino1210/dino1210/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dino1210&color=174a40&style=for-the-badge)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
