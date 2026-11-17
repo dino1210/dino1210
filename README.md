@@ -2,10 +2,7 @@
 
 # Hi, I'm Nolly Alvarado 👋
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=1000&color=95A08D&center=true&vCenter=true&width=700&lines=%3E+IT+Technical+Support;%3E+Building+Full-Stack+Applications;%3E+Automating+Repetitive+Workflows;%3E+Building+Practical+Systems_"
-  alt="Typing animation"
-/>
+### IT Support · Full-Stack Development · Automation
 
 I build practical software, automate repetitive workflows,  
 and solve real-world IT problems.
