@@ -2,7 +2,10 @@
 
 # Hi, I'm Nolly Alvarado 👋
 
-### IT Support · Full-Stack Development · Automation
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=1000&color=95A08D&center=true&vCenter=true&width=700&lines=%3E+IT+Technical+Support;%3E+Building+Full-Stack+Applications;%3E+Automating+Repetitive+Workflows;%3E+Building+Practical+Systems_"
+  alt="Typing animation"
+/>
 
 I build practical software, automate repetitive workflows,  
 and solve real-world IT problems.
@@ -198,9 +201,9 @@ GITHUB     github.com/dino1210
 
 <div align="center">
 
-https://img.shields.io/badge/SEND_AN_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white](mailto:nolly.alvarado17@gmail.com)
-https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/nolly-alvarado)
-https://img.shields.io/badge/VIEW_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/dino1210)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nolly.alvarado17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nolly-alvarado)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dino1210)
 
 </div>
 
@@ -210,6 +213,6 @@ https://img.shields.io/badge/VIEW_GITHUB-181717?style=for-the-badge&logo=github&
 
 ### `BUILD. AUTOMATE. SUPPORT.`
 
-https://komarev.com/ghpvc/?username=dino1210&color=65705f&style=flat-square&label=PROFILE+VIEWS
+![Profile Views](https://komarev.com/ghpvc/?username=dino1210&color=65705f&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
