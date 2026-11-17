@@ -2,7 +2,11 @@
 
 # Hi, I'm Nolly Alvarado 👋
 
-### IT Support · Full-Stack Development · Automation
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=1000&color=95A08D&center=true&vCenter=true&width=700&lines=%3E+IT+Technical+Support;%3E+Building+Full-Stack+Applications;%3E+Automating+Repetitive+Workflows;%3E+Building+Practical+Systems_"
+  alt="Typing animation"
+/>
+<!-- ### IT Support · Full-Stack Development · Automation -->
 
 I build practical software, automate repetitive workflows,  
 and solve real-world IT problems.
@@ -196,7 +200,7 @@ EMAIL      nolly.alvarado17@gmail.com
 LINKEDIN   linkedin.com/in/nolly-alvarado
 GITHUB     github.com/dino1210
 ```
-
+<!--
 <div align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nolly.alvarado17@gmail.com)
@@ -214,3 +218,4 @@ GITHUB     github.com/dino1210
 ![Profile Views](https://komarev.com/ghpvc/?username=dino1210&color=65705f&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
+-->
