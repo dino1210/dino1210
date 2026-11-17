@@ -94,7 +94,7 @@ My goal is to become a well-rounded developer capable of contributing to meaning
 
 ---
 
-## `04 / FEATURED_WORK`
+<!-- ## `04 / FEATURED_WORK`
 
 ### `PROJECT.01 / AssetTrack`
 
@@ -117,8 +117,9 @@ Google Apps Script / Google Sheets / Automation
 ```
 
 ---
+-->
 
-## `05 / GITHUB_ACTIVITY`
+## `04 / GITHUB_ACTIVITY`
 
 <div align="center">
 
@@ -155,7 +156,7 @@ Google Apps Script / Google Sheets / Automation
 
 ---
 
-## `06 / CONTRIBUTIONS`
+## `05 / CONTRIBUTIONS`
 
 <div align="center">
 
@@ -186,7 +187,7 @@ Google Apps Script / Google Sheets / Automation
 
 ---
 
-## `07 / CONTACT`
+## `06 / CONTACT`
 
 Have a project, opportunity, collaboration, or technical problem worth discussing?
 
