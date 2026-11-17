@@ -13,6 +13,7 @@ and solve real-world IT problems.
 
 <br />
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-65705F?style=for-the-badge&logo=vercel&logoColor=white)](https://nolly-alvarado.vercel.app/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nolly.alvarado17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nolly-alvarado)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dino1210)
